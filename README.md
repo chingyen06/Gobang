@@ -7,4 +7,4 @@
 
 **此儲存庫存放成果**
 
-[程式碼儲存庫]()
+[程式碼儲存庫](https://github.com/chingyen06/Gobang_Program)
