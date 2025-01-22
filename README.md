@@ -8,4 +8,4 @@
 **此儲存庫存放成果**  
 <註> 此為電腦版
   
-[程式碼儲存庫](https://github.com/chingyen06/Gobang_Program)
+[程式碼儲存庫](https://github.com/chingyen06/Gobang-Program)
